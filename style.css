@@ -1,0 +1,46 @@
+body {
+     background: 
+linear-gradient(135deg, #AEAEC1 25%, transparent 25%) -50px 0,
+linear-gradient(225deg, #AEAEC1 25%, transparent 25%) -50px 0,
+linear-gradient(315deg, #AEAEC1 25%, transparent 25%),
+linear-gradient(45deg, #AEAEC1 25%, transparent 25%); 
+background-size: 100px 100px;
+background-color: #7D7D7D;
+
+}
+
+input {
+      margin: 25px;
+      width: 400px;
+}
+
+#TextArea {
+      font-family:  helvetica;
+      font-size: 16px;
+      width: 450px;
+       height: 350px;
+      margin-left: 25%;
+      margin-top: 35px;
+      background-color: white;
+      overflow: scroll;
+
+
+}
+
+     
+#inputArea {
+      margin-left: 25%;
+      margin-top: 35px;
+      width: 500px;
+      height:300px;
+      padding-bottom: 25px;
+}
+
+
+#name {
+      background-color: none;
+      color: black;
+        position: absolute;
+        left: 100px;
+        top: 350px
+}
